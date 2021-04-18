@@ -3,7 +3,8 @@
 Pytest is a great tool to create bug-free code every time.
 It assists by executing test cases on your code.<br>
 You can create your own tests.
-You would simply call your existing functions as you would normally do, provide expected values or exceptions to be raised and you're done!<br><br>
+Simply call your existing functions as you would normally do (just in a `test_...` function as a wrapper),<br>
+provide expected values or exceptions to be raised and you're done!<br><br>
 
 Start exploring <a href="https://github.com/rusheelshukla/unit-test-demo/blob/main/test_cases.py">here</a>.<br>
 
